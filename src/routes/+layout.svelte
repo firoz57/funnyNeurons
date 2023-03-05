@@ -26,10 +26,10 @@
 		<div class="flex flex-col space-y-4">
 			<a class="text-gray-500 transition hover:text-gray-300" href="/">Home</a>
 			<a class="text-gray-500 transition hover:text-gray-300" href="/about">About</a>
-			<a class="text-gray-500 transition hover:text-gray-300" href="/#newsletter">Newsletter</a>
-			<a class="text-gray-500 transition hover:text-gray-300" href="/rss.xml" rel="external">
+			<!-- <a class="text-gray-500 transition hover:text-gray-300" href="/#newsletter">Newsletter</a> -->
+			<!-- <a class="text-gray-500 transition hover:text-gray-300" href="/rss.xml" rel="external">
 				RSS
-			</a>
+			</a> -->
 		</div>
 		<div class="flex flex-col space-y-4">
 			<a
@@ -48,14 +48,14 @@
 			>
 				GitHub
 			</a>
-			<a
+			<!-- <a
 				class="text-gray-500 transition hover:text-gray-300"
 				target="_blank"
 				rel="noopener noreferrer"
 				href={MY_YOUTUBE}
 			>
 				YouTube
-			</a>
+			</a> -->
 		</div>
 	</div>
 	<p class="prose px-4 dark:prose-invert sm:px-8">
